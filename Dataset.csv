@@ -1,0 +1,101 @@
+Order ID,Order Date,Category,Sub-Category,Region,Segment,Sales,Profit
+1,05-10-2019,Technology,Chairs,South,Consumer,1977.89,20.79
+2,17-01-2019,Office Supplies,Storage,West,Corporate,590.49,112.26
+3,06-01-2020,Furniture,Accessories,South,Consumer,856.77,-51.45
+4,04-02-2022,Technology,Binders,Central,Consumer,1050.2,16.09
+5,28-02-2022,Technology,Binders,South,Corporate,323.14,72.44
+6,01-08-2022,Office Supplies,Accessories,East,Consumer,1335.95,-75.75
+7,31-01-2021,Furniture,Binders,South,Home Office,1931.93,-365.87
+8,27-07-2019,Technology,Chairs,East,Consumer,805.89,-70.59
+9,01-01-2021,Furniture,Chairs,West,Home Office,1053.66,40.36
+10,04-10-2021,Technology,Tables,Central,Home Office,1316.9,-98.51
+11,04-06-2019,Technology,Binders,East,Home Office,1761.51,-157.17
+12,24-02-2019,Furniture,Storage,South,Corporate,703.55,22.97
+13,04-06-2020,Furniture,Phones,West,Consumer,557.93,159.91
+14,04-02-2020,Furniture,Chairs,West,Home Office,1466.42,-220.27
+15,03-06-2021,Furniture,Accessories,East,Home Office,193.53,-0.36
+16,31-08-2020,Office Supplies,Phones,East,Home Office,350.04,-41.46
+17,04-12-2019,Technology,Phones,West,Home Office,650.62,177.86
+18,13-09-2020,Office Supplies,Accessories,West,Corporate,1633.52,-288.72
+19,04-11-2020,Furniture,Binders,Central,Home Office,549.67,110.68
+20,03-11-2019,Technology,Binders,Central,Home Office,816.35,-86.83
+21,04-09-2019,Furniture,Chairs,West,Home Office,590.83,71.17
+22,03-11-2020,Technology,Storage,East,Home Office,1585.63,-278.45
+23,15-10-2021,Furniture,Chairs,South,Home Office,692.59,-129.28
+24,10-11-2021,Furniture,Accessories,Central,Consumer,590.75,147.82
+25,28-05-2021,Technology,Binders,East,Consumer,667.39,-37.34
+26,26-07-2019,Office Supplies,Storage,Central,Home Office,1379.11,302.77
+27,23-06-2021,Technology,Binders,Central,Corporate,1718.99,-0.09
+28,09-01-2021,Office Supplies,Storage,West,Home Office,259.71,4.98
+29,21-08-2022,Technology,Phones,West,Consumer,500.11,-80.61
+30,17-02-2021,Office Supplies,Accessories,Central,Corporate,1597.4,143.92
+31,05-02-2020,Technology,Chairs,East,Consumer,1318.09,185.87
+32,04-10-2021,Office Supplies,Accessories,South,Home Office,152.69,22.76
+33,20-05-2022,Office Supplies,Storage,West,Consumer,828.88,193.55
+34,25-07-2019,Furniture,Accessories,West,Corporate,1888.73,401.44
+35,10-09-2022,Furniture,Accessories,South,Consumer,1310.6,94.6
+36,29-03-2022,Technology,Accessories,East,Consumer,102.39,-20.07
+37,17-10-2019,Technology,Accessories,South,Consumer,508.29,116.64
+38,16-12-2021,Technology,Storage,South,Corporate,1429.92,161.81
+39,03-08-2022,Office Supplies,Chairs,South,Corporate,455.39,-37.37
+40,25-03-2019,Furniture,Phones,Central,Consumer,182.5,30.94
+41,23-04-2020,Office Supplies,Tables,South,Consumer,765.91,-104.82
+42,08-04-2022,Furniture,Phones,East,Consumer,1661.01,-90.06
+43,08-02-2021,Furniture,Phones,West,Home Office,407.75,22.65
+44,12-03-2020,Furniture,Chairs,West,Corporate,660.84,18.65
+45,22-01-2020,Furniture,Chairs,West,Corporate,1610.19,329.32
+46,07-02-2022,Technology,Tables,Central,Corporate,169.43,-8.15
+47,15-05-2021,Furniture,Accessories,East,Home Office,1139.81,337.32
+48,11-07-2019,Technology,Binders,Central,Corporate,700.96,-91.99
+49,21-03-2021,Technology,Binders,West,Home Office,910.69,-148.13
+50,08-08-2020,Technology,Phones,Central,Consumer,1777.16,117.7
+51,09-02-2020,Office Supplies,Accessories,South,Corporate,1115.08,-163.45
+52,10-12-2019,Furniture,Binders,South,Corporate,515.07,13.74
+53,10-05-2022,Office Supplies,Binders,West,Corporate,371.34,79.46
+54,30-03-2022,Technology,Phones,Central,Corporate,1200.87,100.3
+55,12-08-2020,Office Supplies,Binders,East,Corporate,1188.86,-144.12
+56,30-01-2020,Technology,Phones,South,Home Office,1534.91,436.7
+57,10-07-2019,Technology,Accessories,South,Corporate,1671.68,-135.94
+58,08-03-2019,Furniture,Tables,Central,Corporate,671.44,89.63
+59,08-04-2022,Furniture,Phones,South,Consumer,853.81,-28.38
+60,01-09-2021,Furniture,Accessories,Central,Consumer,1488.3,-139.31
+61,10-11-2019,Technology,Binders,South,Corporate,1411.34,177.98
+62,03-07-2019,Technology,Storage,East,Consumer,1202.22,-55.62
+63,12-09-2019,Office Supplies,Chairs,Central,Home Office,1745.53,-147.27
+64,04-10-2021,Technology,Accessories,Central,Consumer,375.04,42.76
+65,29-07-2021,Technology,Binders,Central,Corporate,466.48,-80.21
+66,27-11-2020,Furniture,Phones,West,Corporate,332.75,-39.68
+67,19-05-2019,Office Supplies,Storage,Central,Corporate,106.21,-17.43
+68,30-01-2022,Furniture,Binders,Central,Home Office,1704.07,254.4
+69,29-03-2021,Office Supplies,Phones,South,Home Office,1820.8,397.07
+70,05-04-2022,Office Supplies,Binders,South,Corporate,1115.08,-22.11
+71,28-05-2020,Office Supplies,Binders,West,Home Office,1313.23,87.16
+72,20-11-2022,Technology,Tables,South,Consumer,1202.93,188.02
+73,26-02-2020,Technology,Accessories,East,Home Office,1320.18,198.44
+74,13-11-2019,Furniture,Accessories,West,Consumer,1245.72,300
+75,15-02-2022,Technology,Storage,East,Home Office,1350.77,197.82
+76,15-04-2020,Office Supplies,Binders,East,Home Office,52.3,7.47
+77,02-08-2020,Furniture,Tables,South,Home Office,258.58,27.86
+78,09-05-2021,Furniture,Chairs,West,Consumer,532.89,-93.59
+79,15-07-2020,Office Supplies,Binders,East,Corporate,749.32,171.12
+80,24-01-2020,Furniture,Tables,Central,Consumer,1659.12,-147.51
+81,24-05-2022,Technology,Binders,East,Corporate,439.16,-5.69
+82,08-04-2019,Furniture,Phones,West,Consumer,1971.16,120.73
+83,23-06-2021,Office Supplies,Storage,Central,Home Office,683.42,-115.54
+84,17-08-2020,Furniture,Chairs,Central,Home Office,1925.22,502.14
+85,04-01-2019,Furniture,Storage,West,Corporate,1315,-49.71
+86,08-02-2021,Furniture,Tables,Central,Home Office,1317.18,82
+87,19-09-2022,Furniture,Storage,East,Consumer,1036.91,-148.84
+88,28-04-2019,Technology,Accessories,Central,Home Office,1576.65,142.15
+89,29-05-2020,Office Supplies,Phones,West,Home Office,1290.32,114.38
+90,14-01-2022,Furniture,Tables,South,Home Office,1282.01,-2.2
+91,27-03-2020,Furniture,Phones,East,Consumer,99.35,-14.72
+92,11-01-2019,Furniture,Tables,South,Corporate,1894.89,269.62
+93,19-03-2020,Furniture,Binders,West,Corporate,1127.67,-46.04
+94,08-10-2021,Technology,Phones,South,Home Office,177.11,23.98
+95,12-06-2020,Furniture,Storage,West,Corporate,358.63,-47.42
+96,24-02-2020,Office Supplies,Accessories,West,Consumer,992.38,21.4
+97,18-04-2020,Furniture,Binders,Central,Consumer,1850.62,-125.55
+98,02-01-2020,Technology,Phones,South,Consumer,1549.07,-183.36
+99,23-01-2020,Furniture,Phones,Central,Home Office,1737.48,84.15
+100,26-06-2020,Technology,Binders,West,Consumer,1885.97,-204.41
